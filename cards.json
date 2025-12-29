@@ -1,0 +1,23 @@
+{
+    "decks": [
+      {
+        "id": "canadianProvinces&CapitalCities",
+        "name": "Canadian Provinces and Capital Cities Flashcards",
+        "cards": [
+          { "front": "Yukon Territory", "back": "Whitehorse" },
+          { "front": "British Columbia", "back": "Victoria" },
+          { "front": "Northwest Territories", "back": "Yellowknife" },
+          { "front": "Alberta", "back": "Edmonton" },
+          { "front": "Nunavut", "back": "Iqaluit" },
+          { "front": "Saskatchewan", "back": "Regina" },
+          { "front": "Manitoba", "back": "Winnipeg" },
+          { "front": "Ontario", "back": "Toronto" },
+          { "front": "Quebec", "back": "Quebec City" },
+          { "front": "Newfoundland and Labrador", "back": "St. John's" },
+          { "front": "Prince Edward Island", "back": "Charlottetown" },
+          { "front": "Nova Scotia", "back": "Halifax" },
+          { "front": "New Brunswick", "back": "Federiction" }
+        ]
+      }
+    ]
+  }
